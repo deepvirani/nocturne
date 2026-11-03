@@ -1,0 +1,242 @@
+[
+  {
+    "id": "p1",
+    "slug": "nocturne-automatic",
+    "name": "Nocturne Automatic",
+    "tagline": "A midnight dial in brushed titanium.",
+    "description": "The Nocturne is our quietest statement. A 41mm brushed titanium case houses a Swiss automatic movement beneath a domed sapphire crystal. The dial is lacquered in seven layers of deep black, with applied gold indices that catch the light only when you move.",
+    "price": 4850,
+    "category": "Watches",
+    "art": "watch",
+    "stock": 8,
+    "featured": true,
+    "badge": "Signature",
+    "specs": [
+      "41mm brushed titanium case",
+      "Swiss automatic movement",
+      "Domed sapphire crystal",
+      "72-hour power reserve",
+      "Water resistant to 100m"
+    ]
+  },
+  {
+    "id": "p2",
+    "slug": "aurelia-tote",
+    "name": "Aurelia Tote",
+    "tagline": "Full-grain calfskin, hand-finished edges.",
+    "description": "Cut from a single hide of full-grain Italian calfskin, the Aurelia is built to soften with use. Every edge is painted and burnished by hand. Inside, a suede-lined compartment holds a 14-inch laptop, with a zip pocket for the essentials.",
+    "price": 1240,
+    "category": "Leather",
+    "art": "bag",
+    "stock": 14,
+    "featured": true,
+    "badge": "Bestseller",
+    "specs": [
+      "Full-grain Italian calfskin",
+      "Suede-lined interior",
+      "Fits a 14-inch laptop",
+      "Solid brass hardware",
+      "Made in Florence"
+    ]
+  },
+  {
+    "id": "p3",
+    "slug": "noir-absolu",
+    "name": "Noir Absolu",
+    "tagline": "Oud, black pepper, and smoked cedar.",
+    "description": "A fragrance for the hour after midnight. Noir Absolu opens sharp with black pepper and bergamot, settles into a heart of Laotian oud, and dries down to smoked cedar and vetiver. Bottled in heavyweight glass with a hand-finished brass cap.",
+    "price": 280,
+    "category": "Fragrance",
+    "art": "fragrance",
+    "stock": 32,
+    "featured": true,
+    "badge": "New",
+    "specs": [
+      "100ml eau de parfum",
+      "Laotian oud and smoked cedar",
+      "18-hour wear",
+      "Hand-finished brass cap",
+      "Refillable bottle"
+    ]
+  },
+  {
+    "id": "p4",
+    "slug": "sonata-over-ear",
+    "name": "Sonata Over-Ear",
+    "tagline": "Machined aluminium with lambskin cushions.",
+    "description": "Sonata is an exercise in restraint. CNC-machined aluminium arms, a lambskin headband, and 40mm beryllium drivers tuned for warmth. Active noise cancellation can be switched off entirely, so the world comes back when you want it.",
+    "price": 690,
+    "category": "Audio",
+    "art": "headphones",
+    "stock": 18,
+    "featured": false,
+    "badge": null,
+    "specs": [
+      "40mm beryllium drivers",
+      "Adaptive noise cancellation",
+      "38-hour battery life",
+      "Machined aluminium frame",
+      "Lambskin ear cushions"
+    ]
+  },
+  {
+    "id": "p5",
+    "slug": "meridian-table-lamp",
+    "name": "Meridian Lamp",
+    "tagline": "Hand-spun brass with a linen shade.",
+    "description": "Each Meridian base is spun by hand from a single sheet of brass, then left unlacquered so it develops a patina unique to your room. The linen shade is woven in Normandy and casts a warm, low light made for late reading.",
+    "price": 940,
+    "category": "Lighting",
+    "art": "lamp",
+    "stock": 9,
+    "featured": true,
+    "badge": null,
+    "specs": [
+      "Hand-spun unlacquered brass",
+      "Normandy linen shade",
+      "Dimmable warm LED included",
+      "Height 46cm",
+      "Made to order in 3 weeks"
+    ]
+  },
+  {
+    "id": "p6",
+    "slug": "solstice-lounge-chair",
+    "name": "Solstice Chair",
+    "tagline": "Smoked oak and ivory bouclé.",
+    "description": "A low lounge chair with a generous seat and a gently curved back. The frame is smoked solid oak, joined without visible hardware. The bouclé is woven in the Scottish Borders from undyed wool.",
+    "price": 3600,
+    "category": "Furniture",
+    "art": "chair",
+    "stock": 4,
+    "featured": false,
+    "badge": "Made to order",
+    "specs": [
+      "Smoked solid oak frame",
+      "Undyed wool bouclé",
+      "Hand-joined, no visible hardware",
+      "Width 78cm, depth 82cm",
+      "Made to order in 6 weeks"
+    ]
+  },
+  {
+    "id": "p7",
+    "slug": "eclipse-sunglasses",
+    "name": "Eclipse Sunglasses",
+    "tagline": "Hand-polished acetate, gold hardware.",
+    "description": "A classic silhouette cut from Italian acetate and polished by hand over three days. Gold-plated hinges, mineral glass lenses, and a weight that disappears on the face. Comes with a leather case and cleaning cloth.",
+    "price": 420,
+    "category": "Eyewear",
+    "art": "eyewear",
+    "stock": 21,
+    "featured": false,
+    "badge": null,
+    "specs": [
+      "Italian acetate frame",
+      "Gold-plated hinges",
+      "Mineral glass lenses",
+      "100% UV protection",
+      "Leather case included"
+    ]
+  },
+  {
+    "id": "p8",
+    "slug": "onyx-runner",
+    "name": "Onyx Runner",
+    "tagline": "Italian nappa and a sculpted sole.",
+    "description": "Our take on the everyday sneaker. Soft Italian nappa leather over a sculpted rubber sole, with a cork footbed that moulds to your step. Designed to be worn without socks and resoled for years.",
+    "price": 380,
+    "category": "Footwear",
+    "art": "sneaker",
+    "stock": 26,
+    "featured": false,
+    "badge": "New",
+    "specs": [
+      "Italian nappa leather",
+      "Sculpted rubber sole",
+      "Cork footbed",
+      "Handmade in Portugal",
+      "Resoleable construction"
+    ]
+  },
+  {
+    "id": "p9",
+    "slug": "solitaire-band",
+    "name": "Solitaire Band",
+    "tagline": "18k gold vermeil with a lab diamond.",
+    "description": "A single brilliant-cut lab diamond set in a hand-forged band of 18k gold vermeil. Understated enough for every day, considered enough for the day it matters. Each stone is certified and traceable.",
+    "price": 2150,
+    "category": "Jewellery",
+    "art": "ring",
+    "stock": 6,
+    "featured": true,
+    "badge": "Signature",
+    "specs": [
+      "18k gold vermeil band",
+      "0.5ct lab-grown diamond",
+      "VS1 clarity, colourless",
+      "Hand-forged setting",
+      "Certified and traceable"
+    ]
+  },
+  {
+    "id": "p10",
+    "slug": "ember-candle",
+    "name": "Ember Candle",
+    "tagline": "Amber, fig leaf, and vetiver.",
+    "description": "Hand-poured in small batches into a reusable stoneware vessel. Ember burns for sixty hours with a clean, even flame. The scent is dry and green at first, then warm amber and vetiver as the evening settles.",
+    "price": 95,
+    "category": "Objects",
+    "art": "candle",
+    "stock": 48,
+    "featured": false,
+    "badge": null,
+    "specs": [
+      "300g coconut-soy wax",
+      "60-hour burn time",
+      "Reusable stoneware vessel",
+      "Hand-poured in small batches",
+      "Cotton wick"
+    ]
+  },
+  {
+    "id": "p11",
+    "slug": "verano-weekender",
+    "name": "Verano Weekender",
+    "tagline": "Vegetable-tanned leather, brass zips.",
+    "description": "A weekend bag with a soft structure and a wide opening. Vegetable-tanned leather from Tuscany, solid brass zips, and a canvas lining that wipes clean. Sized for a carry-on and a two-night escape.",
+    "price": 1680,
+    "category": "Leather",
+    "art": "bag",
+    "stock": 11,
+    "featured": false,
+    "badge": null,
+    "specs": [
+      "Vegetable-tanned Tuscan leather",
+      "Solid brass zips",
+      "Wipe-clean canvas lining",
+      "Cabin-friendly dimensions",
+      "Detachable shoulder strap"
+    ]
+  },
+  {
+    "id": "p12",
+    "slug": "halo-pendant",
+    "name": "Halo Pendant",
+    "tagline": "A single freshwater pearl on a fine chain.",
+    "description": "One luminous freshwater pearl, hand-knotted on a 45cm chain of 18k gold vermeil. The clasp is small and hidden, so the pendant appears to float. A quiet piece that works with everything.",
+    "price": 1980,
+    "category": "Jewellery",
+    "art": "necklace",
+    "stock": 7,
+    "featured": false,
+    "badge": null,
+    "specs": [
+      "Freshwater pearl, 9mm",
+      "18k gold vermeil chain",
+      "45cm length",
+      "Hand-knotted silk thread",
+      "Hidden clasp"
+    ]
+  }
+]
